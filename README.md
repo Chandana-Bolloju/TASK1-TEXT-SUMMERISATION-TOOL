@@ -28,3 +28,9 @@ Calculating word frequencies
 Scoring sentences based on contained word frequencies
 
 Selecting top-scoring sentences for the summary
+
+*OUTPUT*  :
+
+![Image](https://github.com/user-attachments/assets/439b9d63-da80-4993-b77a-aa02cb50f56e)
+
+![Image](https://github.com/user-attachments/assets/0dd98071-5be0-441a-ae12-c1288b82e544)
